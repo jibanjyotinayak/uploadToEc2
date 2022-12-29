@@ -1,3 +1,7 @@
 Create an ec2 Instance
 sudo su -
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
+
+//Install Git
+sudo yum install git -y
+
